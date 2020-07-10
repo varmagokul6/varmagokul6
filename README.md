@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**varmagokul6/varmagokul6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a mechanical engineering student at the University of California, Irvine. I love learning because I enjoy discovering the mechanisms and workings of the world and the universe :milky_way:. 
 
-Here are some ideas to get you started:
+* Top Skills: SolidWorks, Python, MATLAB
+* Work Experience: 
+    * Northrop Grumman - Systems Engineering Intern (Jun 2020 - Aug 2020)
+* Interests: Rocket Propulsion, Robotics, Embedded Systems/IoT, Sustainability
+* Love learning languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
