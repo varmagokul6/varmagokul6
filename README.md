@@ -7,7 +7,7 @@ I am a 3rd year mechanical engineering student at the University of California, 
     * Northrop Grumman - Systems Engineering Intern (Jun 2020 - Aug 2020)
 * Interests: Rocket Propulsion, Robotics, Embedded Systems/IoT, Sustainability
 * Love learning languages
-
+* Currently working on an autonomous Raspberry Pi car with path following and obstacle detection functionalities (personal project)
 
 
 
