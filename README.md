@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a mechanical engineering student at the University of California, Irvine. I love learning because I enjoy discovering the mechanisms and workings of the world and the universe :milky_way:. 
+I am a 3rd year mechanical engineering student at the University of California, Irvine. I love learning because I enjoy discovering the mechanisms and workings of the world and the universe :milky_way:. 
 
 * Top Skills: SolidWorks, Python, MATLAB
 * Work Experience: 
