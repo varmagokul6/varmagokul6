@@ -2,7 +2,7 @@
 
 I am a 3rd year mechanical engineering student at the University of California, Irvine. I am a learning enthusiast who enjoys discovering the mechanisms and workings of the world and the universe :milky_way:. 
 
-* Top Skills: SolidWorks, Python, MATLAB
+* Top Skills: SolidWorks, Python, MATLAB, 3D Printing
 * Work Experience: 
     * Northrop Grumman - Systems Engineering Intern (Jun 2020 - Aug 2020)
 * Project Experience:
