@@ -7,6 +7,7 @@ I am a 3rd year mechanical engineering student at the University of California, 
 * Work Experience: 
     * Northrop Grumman - Systems Engineering Intern (Jun 2020 - Aug 2020)
 * Project Experience:
+    * Spacecraft Thermal Management Systems - Thermal Engineer (Jul 2020 - Present)
     * FSAE Anteater Electric Racing - Human Interface Engineer (Apr 2020 - Present)
     * Micromouse - Team Lead (Oct 2018 - Present)
 * Interests: Rocket Propulsion, Robotics, Embedded Systems/IoT, Sustainability
