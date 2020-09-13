@@ -14,6 +14,10 @@ I am a 3rd year mechanical engineering student at the University of California, 
 * Love learning languages
 * Currently working on an autonomous Raspberry Pi car with path following and obstacle detection functionalities (personal project)
 
+<li>
 LinkedIn: https://www.linkedin.com/in/gokul-varma/
+   </li>
+   <li>
 Devpost: https://devpost.com/varmagokul6?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
+   </li>
 
