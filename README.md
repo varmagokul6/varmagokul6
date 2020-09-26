@@ -5,7 +5,7 @@ I am a 3rd year mechanical engineering student at the University of California, 
 * Top Skills: SolidWorks, Python, MATLAB, 3D Printing
 * Familiarity With: C++, HTML, CSS, Git
 * Work Experience: 
-    * Northrop Grumman - Systems Engineering Intern (Jun 2020 - Aug 2020)
+    * Northrop Grumman - Systems Engineering Intern (Jun 2020 - Sep 2020)
 * Project Experience:
     * Spacecraft Thermal Management Systems - Thermal Engineer (Jul 2020 - Present)
     * FSAE Anteater Electric Racing - Human Interface Engineer (Apr 2020 - Present)
