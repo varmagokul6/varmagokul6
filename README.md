@@ -12,7 +12,6 @@ I am a 3rd year mechanical engineering student at the University of California, 
     * Micromouse - Team Lead (Oct 2018 - Present)
 * Interests: Space Systems, Rocket Propulsion, Robotics, Embedded Systems/IoT, Sustainability
 * Love learning languages
-* Currently working on an autonomous Raspberry Pi car with path following and obstacle detection functionalities (personal project)
 
 <li>
 LinkedIn: https://www.linkedin.com/in/gokul-varma/
