@@ -1,19 +1,11 @@
 ### Hi there! 👋
 
-I am a 3rd year mechanical engineering student at the University of California, Irvine. I am a learning enthusiast who enjoys discovering the mechanisms and workings of the world and the universe :milky_way:. 
+Welcome to my portfolio! Glad you could make it. 
 
-* Top Skills: SolidWorks, Python, MATLAB, 3D Printing
-* Familiarity With: C++, HTML, CSS, JavaScript, React.js, Git
-* Work Experience: 
-    * Northrop Grumman - Systems Engineering Intern (Jun 2020 - Sep 2020)
-* Project Experience:
-    * Spacecraft Thermal Management Systems - Thermal Engineer (Jul 2020 - Present)
-    * FSAE Anteater Electric Racing - Human Interface Engineer (Apr 2020 - Present)
-    * Micromouse - Team Lead (Oct 2018 - Present)
-* Interests: Space Systems, Rocket Propulsion, Robotics, Embedded Systems/IoT, Sustainability
-* Love learning languages
+As a mechanical engineer, I pride myself in learning and discovering new ways to build things. Take a look at all my different projects!
 
 <li>
+   
 LinkedIn: https://www.linkedin.com/in/gokul-varma/
    </li>
    <li>
